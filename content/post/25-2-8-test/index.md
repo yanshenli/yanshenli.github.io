@@ -1,7 +1,7 @@
 ---
-title: xxxxxx
+title: 新学期，启动！
 date: 2025-02-08
 ---
 
 
-xxxxxx
+本学期第一次组会成功召开。
