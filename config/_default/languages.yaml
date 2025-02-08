@@ -12,9 +12,9 @@ zh:
 en:
   languageCode: en-us
   contentDir: content/en
-  title: Chinese website title...
+  title: PFIS Lab
   params:
-    description: Site description in Chinese...
+    description: Yanshen Li research group
   menu:
    main:
     - name: Tour
