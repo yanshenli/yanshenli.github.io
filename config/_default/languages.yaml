@@ -15,12 +15,8 @@ en:
 #  title: Chinese website title...
 #  params:
 #    description: Site description in Chinese...
-  menu:
-    main:
-     - name: Tour
-        url: tour
-        weight: 1
-     - name: Post
-        url: post
-        weight: 2
-
+#  menu:
+#    main:
+#     - name: 传
+#        url: '#about'
+#        weight: 1
