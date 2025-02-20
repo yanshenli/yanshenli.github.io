@@ -19,7 +19,7 @@ sections:
 
         ## Introduction
         ### 3rd title
-        ![UCAS](/assets/media/icon.png)
+        ![UCAS](icon.png)
   
   - block: collection
     content:
