@@ -11,7 +11,7 @@ sections:
         Wowchemy
         Research Group
       image:
-        filename: welcome.jpg
+        filename: icon.png
       text: |
         <br>
         
