@@ -13,10 +13,12 @@ sections:
       image:
         filename: icon.png
       text: |
-        <br>
+        
         
         The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-
+        {{< icon name="devicon/bash" >}} Terminal
+        {{< icon name="devicon/python" >}} Python
+        {{< icon name="devicon/r" >}} R
         ## Introduction
         ### 3rd title
         ![UCAS](icon.png)
