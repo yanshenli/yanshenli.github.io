@@ -30,22 +30,22 @@ organizations:
 #   - 液滴
 #   - 固液界面浸润
 
-education:
-  courses:
-    - course: 博士后，流体力学
-      institution: 特文特大学 (University of Twente)
-      year: 2021
-    - course: 工学博士，固体力学
-      institution: 清华大学
-      year: 2017
-    - course: 工学学士，能源动力
-      institution: 清华大学
-      year: 2011
+# education:
+#   courses:
+#     - course: 博士后，流体力学
+#       institution: 特文特大学 (University of Twente)
+#       year: 2021
+#     - course: 工学博士，固体力学
+#       institution: 清华大学
+#       year: 2017
+#     - course: 工学学士，能源动力
+#       institution: 清华大学
+#       year: 2011
 
-interests:
-  - 多相多组分界流体
-  - 液滴
-  - 固液界面浸润
+# interests:
+#   - 多相多组分界流体
+#   - 液滴
+#   - 固液界面浸润
 
 
 # Social/Academic Networking

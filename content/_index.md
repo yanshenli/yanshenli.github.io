@@ -143,7 +143,7 @@ sections:
     content:         
       text: |-
               <p align="center">
-                  <img src="image/AcadTrack7.png" 
+                  <img src="image/AcadTrack.png" 
                       width="95%" 
                       style="display: inline-block; border: 0">
               </p>
