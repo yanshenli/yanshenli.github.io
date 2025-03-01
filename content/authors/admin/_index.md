@@ -93,4 +93,4 @@ user_groups:
 
 清华大学学士、博士。博士师从郑泉水院士，深受其创新教育理念的熏陶。荷兰特文特大学博士后，合作导师为 Detlef Lohse 教授（荷兰、德国、美国多院院士）。
 
-在 PNAS, PRL, JFM 等流体力学、物理学领域的顶级期刊发表多篇论文，成果得到 Nature、Physics、Chemistry World、Europhysics News, FYFD 等知名学术媒体高亮报道。详情请见[研究方向](../../research)与[出版信息](../../publication/)。
+在 PNAS, PRL, JFM 等流体力学、物理学领域的顶级期刊发表多篇论文，成果得到 Nature、Physics、Chemistry World、Europhysics News, FYFD 等知名学术媒体高亮报道。详情请见[研究方向](../../research)与[出版信息](../../publication/)。  
