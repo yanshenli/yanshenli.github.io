@@ -1,6 +1,6 @@
 ---
 title: 研究方向
-date:
+date: 2020-01-01
 type: landing
 
 sections:
@@ -22,27 +22,6 @@ sections:
       columns: '1'
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
-
-
-  # - block: markdown
-  #   content:
-  #     title: 
-  #     text: 
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: 
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: 
-  #         # could be cover, contain and 
-  #         size: 
-  #         text_color_light: false
-  #     spacing:
-  #     # Customize the section spacing. Order is top, right, bottom, left.
-  #       padding: ['0px', '0', '0px', '0']
 
   - block: collection
     content:
