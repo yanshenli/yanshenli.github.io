@@ -125,7 +125,7 @@ sections:
 
             课题组长：[李延深](/author/李延深)，副教授、博导，入选**国家引才计划青年项目**(2021)、中科院人才计划项目、小米青年学者项目，中国科学院大学领雁金奖获得者。
 
-            **清华大学**学士、博士。博士师从郑泉水院士，深受其创新教育理念的熏陶。荷兰特文特大学博士后，合作导师为 <em style="font-family: 'Gill Sans', times new roman">Detlef Lohse</em> 教授（荷兰、德国、美国多院院士）。
+            **清华大学**学士、博士。博士师从郑泉水院士，深受其创新教育理念的熏陶。荷兰特文特大学博士后，合作导师为 <em style="font-family: 'Gill Sans', times new roman">Detlef Lohse</em> 教授（荷兰、德国、美国多院院士）。  
 
             在 <em style="font-family: 'Chalkboard', times new roman">PNAS, PRL, JFM</em> 等**流体力学**、**物理学**领域的顶级期刊发表多篇论文，成果得到 <em style="font-family: 'Chalkboard', times new roman">Nature、Physics、Chemistry World、Europhysics News, FYFD</em> 等知名学术媒体高亮报道。详情请见[论文发表](/publication/)。
               </p> 
