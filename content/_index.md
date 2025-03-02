@@ -69,7 +69,7 @@ sections:
       spacing:
       # Customize the section spacing. Order is top, right, bottom, left.
         padding: ['29vh', '0', '29vh', '0']
-      # css_class: fullscreen
+      css_class: fullscreen
 
 
 
